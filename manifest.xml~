@@ -1,0 +1,15 @@
+<package>
+  <description brief="sparkV_android">
+
+     sparkV_android
+
+  </description>
+  <author>Abhishek Mehta</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sparkV_android</url>
+  <depend package="sparkV_msg"/>
+  <depend package="tf"/>
+</package>
+
+
